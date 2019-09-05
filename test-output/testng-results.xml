@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73" started-at="2019-08-16T15:01:36Z" finished-at="2019-08-16T15:01:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73" started-at="2019-08-16T15:01:36Z" finished-at="2019-08-16T15:01:36Z">
+      <class name="ingenioustechhub.TestAppium">
+        <test-method status="PASS" signature="ISPApp()[pri:0, instance:ingenioustechhub.TestAppium@6eebc39e]" name="ISPApp" duration-ms="23" started-at="2019-08-16T20:31:36Z" finished-at="2019-08-16T20:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ISPApp -->
+        <test-method status="PASS" signature="natveApp()[pri:0, instance:ingenioustechhub.TestAppium@6eebc39e]" name="natveApp" duration-ms="3" started-at="2019-08-16T20:31:36Z" finished-at="2019-08-16T20:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- natveApp -->
+      </class> <!-- ingenioustechhub.TestAppium -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

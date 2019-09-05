@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="83" started-at="2019-08-19T17:52:19Z" finished-at="2019-08-19T17:52:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="83" started-at="2019-08-19T17:52:19Z" finished-at="2019-08-19T17:52:19Z">
+      <class name="ingenioustechhub.TestAppium">
+        <test-method status="PASS" signature="ISPApp()[pri:0, instance:ingenioustechhub.TestAppium@b97c004]" name="ISPApp" duration-ms="0" started-at="2019-08-19T17:52:19Z" finished-at="2019-08-19T17:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ISPApp -->
+        <test-method status="PASS" signature="natveApp()[pri:0, instance:ingenioustechhub.TestAppium@b97c004]" name="natveApp" duration-ms="1" started-at="2019-08-19T17:52:19Z" finished-at="2019-08-19T17:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- natveApp -->
+      </class> <!-- ingenioustechhub.TestAppium -->
+      <class name="ingenioustechhub.Test1Selenium">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:ingenioustechhub.Test1Selenium@5cc7c2a6]" name="BrowserAutomation" duration-ms="18" started-at="2019-08-19T17:52:19Z" finished-at="2019-08-19T17:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:ingenioustechhub.Test1Selenium@5cc7c2a6]" name="elementsUi" duration-ms="1" started-at="2019-08-19T17:52:19Z" finished-at="2019-08-19T17:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- ingenioustechhub.Test1Selenium -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
