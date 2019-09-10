@@ -13,6 +13,10 @@ public class Test1Selenium {
  public void elementsUi() {
 	 System.out.println("element UI");
  }
+ @Test
+ public void elementsUi1() {
+	 System.out.println("element UI1");
+ }
 	
 	
 }

@@ -13,5 +13,9 @@ public class TestRestAPI {
 	public void deleteTwwitter() {
 		System.out.println("delet Twitter");
 	}
+	@Test
+	public void deleteTwwitter1() {
+		System.out.println("delet Twitter1");
+	}
 
 }
